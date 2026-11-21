@@ -2,6 +2,8 @@
 
 Proyecto de aprendizaje automático multimodal para clasificar publicaciones de Twitter/X como **informativas** o **no informativas** durante desastres naturales.
 
+Link Google Collab:  https://colab.research.google.com/drive/1PhjhdctZJ5padRffAj3NyYbvzkc01DJZ?usp=sharing
+
 ## Descripción
 
 El proyecto utiliza el dataset público [CrisisMMD](https://huggingface.co/datasets/QCRI/CrisisMMD) y combina dos fuentes de información:
